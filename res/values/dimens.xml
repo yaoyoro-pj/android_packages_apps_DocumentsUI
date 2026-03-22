@@ -16,7 +16,7 @@
 
 <resources>
     <!-- Material design rounded radius -->
-    <dimen name="material_round_radius">2dp</dimen>
+    <dimen name="material_round_radius">6dp</dimen>
 
     <dimen name="tab_selector_indicator_height">2dp</dimen>
     <dimen name="profile_tab_padding">0dp</dimen>
